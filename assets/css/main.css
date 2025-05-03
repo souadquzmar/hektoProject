@@ -293,6 +293,7 @@ h2 {
 }
 .sub-nav {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 60px;
   width: 100%;
@@ -303,7 +304,6 @@ h2 {
 .sub-nav a {
   color: #151875;
 }
-
 .offer {
   display: flex;
   flex-wrap: wrap;
@@ -606,7 +606,7 @@ a {
 .footer form {
   display: flex;
   flex-wrap: wrap;
-  width: 377px;
+  width: 90%;
   height: 44px;
 }
 .footer input {
@@ -643,6 +643,7 @@ a {
 }
 .contact {
   gap: 10px;
+  width: 100%;
 }
 .footer .row {
   align-items: normal;
