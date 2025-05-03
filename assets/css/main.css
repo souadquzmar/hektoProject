@@ -668,7 +668,7 @@ a {
 }
 @media screen and (max-width: 760px) {
   .container {
-    width: calc(100% - 20px);
+    width: calc(100% - 40px);
   }
   .footer-item {
     width: 100%;
