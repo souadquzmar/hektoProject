@@ -584,9 +584,12 @@ span {
   flex-wrap: wrap;
   gap: 30px;
 }
+.footer-item h2{
+  text-align: left;
+}
 .footer-right-side {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   flex-wrap: wrap;
   gap: 70px;
   flex-grow: 0;
