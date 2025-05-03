@@ -659,11 +659,17 @@ a {
   }
 }
 @media screen and (max-width: 1175px) {
+  .container {
+    width: calc(100% - 80px);
+  }
   .footer-right-side {
     width: 100%;
   }
 }
 @media screen and (max-width: 760px) {
+  .container {
+    width: calc(100% - 20px);
+  }
   .footer-item {
     width: 100%;
     align-items: center;
