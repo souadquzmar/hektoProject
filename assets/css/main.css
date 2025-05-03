@@ -283,6 +283,7 @@ span {
 }
 .latest-product img {
   background-color: #f7f7f7;
+  width: 80%;
 }
 h2 {
   width: 100%;
